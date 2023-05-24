@@ -15,6 +15,8 @@ Instrucciones tarea
 
 # Realizado dentro de los ejercicios
 
+## Por: Marco Daniel Briceño Páez
+
 ## CodigosMuestra.ipynb
 
 - Se implementará al código un sistema que permita ingresar los datos a manejar tras haberlo corrido, mediante:
